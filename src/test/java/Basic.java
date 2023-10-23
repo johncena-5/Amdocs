@@ -8,6 +8,6 @@ public class Basic {
                 System.out.println(a[i]);
             }
         }
-        System.out.println("java");
+        System.out.println("java"+"class");
     }
 }
